@@ -5,8 +5,9 @@ public class HelloJava {
 		System.out.println("Hello Java");
 		  
 		  
-	public static calcularValor();
+	public static calcularValor(int valor);
 	
+	return valor;
 
 	}
 
